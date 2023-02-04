@@ -1,4 +1,4 @@
-# world-cup-database
+# World Cup Database
 My World Cup PostgreSQL Database solution for freeCodeCamp's Relational Database Certification.
 
 Using PostgreSQL and Bash terminal.
